@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Campbelldonthea/OS-Ticket-Prereq/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/Campbelldonthea/Post-Install-Config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Campbelldonthea/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Campbelldonthea/ticket-lifecycle/tree/main)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Campbelldonthea/Azure-Network-Protocols)
