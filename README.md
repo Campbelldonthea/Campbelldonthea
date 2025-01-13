@@ -1,4 +1,4 @@
-<h1>Greetings!, I'm Donthea, an <a href="https://www.linkedin.com/in/donthea-campbell-1a3412346/">IT Specialist</a>☺</h1>
+<h1>Greetings! I'm Donthea, an <a href="https://www.linkedin.com/in/donthea-campbell-1a3412346/">IT Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
